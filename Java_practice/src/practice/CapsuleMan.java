@@ -1,6 +1,7 @@
 package practice;
 
 public class CapsuleMan {
+	// privateにして隠蔽化
 	private String name;
 	private int age;
 
