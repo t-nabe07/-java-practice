@@ -2,7 +2,7 @@
 public class Chapter05 {
 	public static void main(String[] args) {
 
-		// プリミティブ型変数に値を代入して出力
+		// 繝励Μ繝溘ユ繧｣繝門梛螟画焚縺ｫ蛟､繧剃ｻ｣蜈･縺励※蜃ｺ蜉�
 		long l = 1000000000000L;
 		System.out.println(l);
 		double d = 3.14;
@@ -10,7 +10,7 @@ public class Chapter05 {
 		boolean b = true;
 		System.out.println(b);
 
-		// ラッパークラスの変数に値を代入して出力
+		// 繝ｩ繝�繝代�ｼ繧ｯ繝ｩ繧ｹ縺ｮ螟画焚縺ｫ蛟､繧剃ｻ｣蜈･縺励※蜃ｺ蜉�
 		Integer i = 100;
 		System.out.println(i);
 		Float f = 1.435235f;
