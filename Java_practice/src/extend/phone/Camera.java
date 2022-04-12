@@ -1,5 +1,6 @@
 package extend.phone;
 
-public class Camera {
+public interface Camera {
 
+	void takePicture();
 }
